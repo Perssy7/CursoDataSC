@@ -1,3 +1,3 @@
-print( 'hola mundo, algoritmos de data sciencia')
-def funcionEjercicios():
-    return 'algoritmos de matematicas'
+y=str(123)
+x=y[::-1]
+print(x)
